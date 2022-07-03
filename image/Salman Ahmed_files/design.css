@@ -1,0 +1,29 @@
+body{
+  background-color:  #E4DCCF;
+  font-family: Trebuchet MS;
+  color: black;
+  margin: 0px;
+
+}
+div{
+  /* background-color: #34B3F1; */
+  text-align: center;
+
+}
+h1{
+  margin: 0px;
+}
+span{
+  height: 12px;
+}
+#i{
+  margin-top: 120px;
+}
+.nameSec{
+  font-size: 30px;
+  font-family: The Nautigal;
+  margin-bottom: 12px;
+}
+.subtitle{
+  font-family: Century Gothic;
+}

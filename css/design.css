@@ -1,0 +1,195 @@
+/************************** for body ***************************/
+body{
+  background-color: #764AF1;
+  font-family: Trebuchet MS;
+  color: white;
+  margin: 0px auto;
+  /* text-align: center; */
+}
+/***************************************************************/
+/************************** Top part ***************************/
+/***************************************************************/
+.top-part{
+    margin-bottom: 50px;
+
+}
+/************************** 1) For Navbar **************************/
+.navbar{
+  display: flex;
+
+}
+.buttons{
+  display: flex;
+  position: absolute;
+  right: 50px;
+  list-style-type: none;
+}
+.li{
+  margin: 25px 15px;
+}
+.man{
+  height: 75px;
+  width: 75px;
+  position: relative;
+  left: 90px;
+  top: 20px;
+}
+.buttons ul li a{
+  text-decoration: none;
+  color: white;
+}
+/************************** For Intro **************************/
+.intro{
+  /* height: 30px; */
+  position: relative;
+  top: 46px;
+  margin-right: 50px;
+  /* margin-bottom: 50px; */
+}
+h1{
+  /* display: block; */
+  margin-top: 100px;
+  width: 520px;
+  position: absolute;
+  right: 20px;
+}
+.name-1{
+
+  font-size: 60px;
+  position:absolute;
+  right: 17px;
+}
+.name-2{
+  font-size: 100px;
+  position: absolute;
+  top: 50px;
+}
+.heart{
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  right: 27px;
+  top: 166px;
+}
+span{
+  margin: 12px;
+}
+.nameSec{
+  font-size: 25px;
+  font-family: The Nautigal;
+  margin-bottom: 12px;
+
+}
+.subtitle{
+    font-size: 18px;
+    font-family: Century Gothic;
+    position: absolute;
+    top: 240px;
+    right: 130px;
+}
+.subtitle h3{
+  color: #FFC107;
+}
+
+.back-image-2{
+  height: 450px;
+  width: 450px;
+  position: relative;
+  left: 150px;
+  bottom: 36px;
+  margin-top: 50px;
+}
+
+/******************************************************************/
+/************************** Middle part ***************************/
+/*****************************************************************/
+.middle-part{
+  text-align: center;
+}
+.middle-part h2{
+  color: #FFC107;
+  font-size: 45px;
+}
+.middle-part h3{
+  color: #FFC107;
+  font-size: 25px;
+}
+
+.hr-1{
+  margin: 100px auto;
+  width: 6%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: #EAF6F6;
+}
+.image-2{
+  height: 200px;
+  width: 200px;
+  /* margin-top: 50px; */
+}
+.middle-1, .middle-2{
+  /* margin-top: 20px; */
+  height: 200px;
+  width: 200px;
+}
+.middle-1{
+  float: left;
+  margin-right: 20px;
+}
+.middle-2{
+  float: right;
+  margin-left: 20px;
+}
+.hello-des{
+  width: 300px;
+  margin: 0 auto;
+  line-height: 1.8;
+}
+.p{
+  margin-bottom: 60px;
+}
+/************************** My Skills ***************************/
+.skill-row{
+  width: 50%;
+  margin: 75px auto;
+  text-align: left;
+  line-height: 2;
+}
+.content-row{
+  align-items: center;
+}
+/************************** button ***************************/
+.btn {
+  background: #FFC107;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffffff;
+  color: #FFC107;
+  text-decoration: none;
+}
+
+/******************************************************************/
+/************************** Bottom part ***************************/
+/*****************************************************************/
+.bottom-part{
+  height: 120px;
+  background-color: #121212;
+  text-align: center;
+  padding-top: 70px;
+}
+.footer-link{
+  margin: 0 15px;
+  text-decoration: none;
+  color: #FFC107;
+}
+.bottom-part p{
+  margin-top: 40px;
+}
